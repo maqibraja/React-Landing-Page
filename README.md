@@ -1,15 +1,50 @@
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+# React Landing Page
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+Welcome to my React Landing Page project!
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key.
+This project is a simple landing page built using React. It's currently under development, and I'm excited to share its progress with you.
 
+## Features
+
+* Simple landing page design
+* Under development...
+
+## Installation
+
+To install and run the app, follow these steps:
+
+### Prerequisites
+
+* Node.js
+* npm or yarn
+* React development environment
+
+### Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Use the following command to clone the repository:
+
+git clone https://github.com/maqibraja/React-Landing-Page.git
+
+### Configuration
+
+1. Change your working directory to the cloned repository:
+
+* cd React-Landing-Page
+  
+2. Install the required dependencies using:
+
+* npm install
+* npm start
+
+This will start the development server, and you can access the app at `http://localhost:3000`.
+
+## Contributing
+
+If you'd like to contribute to the development of this app, please fork the repository and submit a pull request. I'd love to see your ideas and contributions!
+
+## License
+
+This app is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+Thank you for checking out my React Landing Page project!
